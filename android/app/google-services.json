@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "536733336505",
+    "firebase_url": "https://big-chat-8ae84.firebaseio.com",
+    "project_id": "big-chat-8ae84",
+    "storage_bucket": "big-chat-8ae84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536733336505:android:dcce97369bee1cc3",
+        "android_client_info": {
+          "package_name": "co.Buchi.big_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536733336505-q0j0vtb879nrjaej6q4ev4ko2hlop9ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF_X3WcLaXOywYaPdUIuMV07-79jaaHCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536733336505-q0j0vtb879nrjaej6q4ev4ko2hlop9ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
